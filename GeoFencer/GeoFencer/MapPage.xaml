@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:map="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps" 
+             xmlns:local="clr-namespace:GeoFencer.Renderers"
+             x:Class="GeoFencer.MapPage">
+    <!--<Grid>-->
+          <!--<local:CustomMap MapType="Street" x:Name="customMap">
+          <map:Map.MapElements>
+                <map:Circle StrokeColor="#add8e6"
+                           StrokeWidth="8"
+                           FillColor="#6aaa">
+                    <map:Circle.Center>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.6390431</x:Double>
+                                <x:Double>3.3504834</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Circle.Center>
+                    
+                    <map:Circle.Radius>
+                        <map:Distance>
+                            <x:Arguments>
+                                <x:Double>200</x:Double>
+                            </x:Arguments>
+                        </map:Distance>
+                    </map:Circle.Radius>
+                </map:Circle>
+            </map:Map.MapElements>
+             
+            <map:Map.Pins>
+
+                <map:Pin Label="Adu STR"
+                       Address="The street with new road"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.6392508</x:Double>
+                                <x:Double>3.3505177</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+                <map:Pin Label="Atanda-Lane"
+                       Address="The street with new road"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.6385216</x:Double>
+                                <x:Double>3.3493272</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+                <map:Pin Label="Kokumo STR"
+                       Address="Aviz Filling Station"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.637884</x:Double>
+                                <x:Double>3.349994</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+                <map:Pin Label="Ojetola STR"
+                       Address="Morenijaki Store"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.638200</x:Double>
+                                <x:Double>3.351517</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+                <map:Pin Label="Calvary Close"
+                       Address="Celestial Church"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.640091</x:Double>
+                                <x:Double>3.351516</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+                <map:Pin Label="Golden Pearl Cake"
+                       Address="Mobolaji STR"
+                       Type="Place">
+                    <map:Pin.Position>
+                        <map:Position>
+                            <x:Arguments>
+                                <x:Double>6.6367672</x:Double>
+                                <x:Double>3.3483426</x:Double>
+                            </x:Arguments>
+                        </map:Position>
+                    </map:Pin.Position>
+                </map:Pin>
+
+            </map:Map.Pins>
+
+        </local:CustomMap>-->
+    <!--</Grid>-->
+
+
+</ContentPage>

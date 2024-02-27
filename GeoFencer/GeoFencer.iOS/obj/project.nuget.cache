@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aR1sjaBaXfW0EWrKrDW5tnfzuFvPPwVgdhKsC19T8sel+r+n+RPlDbKxZTm/jYWIVjbl6pw1dzNOOluG6ZW7yw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\GeoFencer\\GeoFencer\\GeoFencer.iOS\\GeoFencer.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\metro_int_user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\metro_int_user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\metro_int_user\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512",
+    "C:\\Users\\metro_int_user\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2401\\xamarin.forms.maps.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}
